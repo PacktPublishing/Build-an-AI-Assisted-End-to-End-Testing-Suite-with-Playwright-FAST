@@ -1,0 +1,12 @@
+Timed out waiting for expect(locator).toBeVisible()
+
+Locator:
+  getByRole('heading', {
+    name: 'Dashboard - Broken Example'
+  })
+
+Expected:
+  visible
+
+Received:
+  hidden or not found
